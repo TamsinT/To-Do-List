@@ -1,6 +1,6 @@
 $('document').ready(function(){
 
-      $('#save').click(function(e) {
+      $('#addtolist').click(function(e) {
         e.preventDefault();
         console.log('f')
 
